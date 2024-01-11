@@ -13,6 +13,7 @@ This repository contains a simple HTML file, `index.html`, along with a JavaScri
     - Expected to interact with the HTML file.
 
 ## Hosting Link
+- https://pdd2498.github.io/DOM-Assignment/
 ## Image
 ![Screenshot 2024-01-11 125356](https://github.com/pdd2498/DOM-Assignment/assets/136301852/f8e33ec1-8c85-4b93-a844-b5aaf573e400)
 

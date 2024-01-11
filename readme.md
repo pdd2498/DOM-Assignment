@@ -12,7 +12,9 @@ This repository contains a simple HTML file, `index.html`, along with a JavaScri
     - The JavaScript file linked in the HTML document.
     - Expected to interact with the HTML file.
 
-## hosting Link
+## Hosting Link
+## Image
+![Screenshot 2024-01-11 125356](https://github.com/pdd2498/DOM-Assignment/assets/136301852/f8e33ec1-8c85-4b93-a844-b5aaf573e400)
 
 ## Acknowledgments
 - Created by Preyesh Dhar Diwan
